@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 import graphviz as gv
 from math import log
 from itertools import starmap
